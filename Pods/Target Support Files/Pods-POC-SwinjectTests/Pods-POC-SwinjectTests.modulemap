@@ -1,0 +1,6 @@
+framework module Pods_POC_SwinjectTests {
+  umbrella header "Pods-POC-SwinjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
